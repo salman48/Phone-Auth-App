@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88579807268",
+    "firebase_url": "https://phoneauth-3e612.firebaseio.com",
+    "project_id": "phoneauth-3e612",
+    "storage_bucket": "phoneauth-3e612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88579807268:android:6fbd92c83ef5e83c0ee0b1",
+        "android_client_info": {
+          "package_name": "net.tafri.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88579807268-m672tt0f5kmq562pi026ive91dvo26vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.tafri.phoneauth",
+            "certificate_hash": "02f17470592e99b3abaa7d58434f18b294c148c6"
+          }
+        },
+        {
+          "client_id": "88579807268-b0jo761v90m4nipmnsvmai4tv3920dem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0L6ncmfymoVBBbQV2t-LEfjNXrrHzRU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88579807268-b0jo761v90m4nipmnsvmai4tv3920dem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
